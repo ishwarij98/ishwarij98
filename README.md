@@ -1,8 +1,9 @@
-# Bonjour! 👨‍💻✨
+# ✨✨ Hey there! ✨✨
 
-Hi, I'm **Ishwari Jamodkar**, a ** frontend developer** from **India** . Passionate about **web technologies**, **React**, and **building modern apps**. 🚀
+Hi, I'm **Ishwari Jamodkar**, a **A fullstack developer** from **India** . Passionate about **web technologies**, **React**, and **building modern apps**. 🚀
 
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 
@@ -18,7 +19,9 @@ Hi, I'm **Ishwari Jamodkar**, a ** frontend developer** from **India** . Passion
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5" title="HTML5" height="25" />](#)
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3" title="CSS3" height="25" />](#)
 [<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git" title="Git" height="25" />](#)
+[<img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux" title="Linux" height="25" />](#)
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="VS Code" title="VS Code" height="25" />](#)
+
 
 ### **Learning & Improving** 📚:
 
@@ -33,7 +36,8 @@ Hi, I'm **Ishwari Jamodkar**, a ** frontend developer** from **India** . Passion
 [<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js" title="Next.js" height="25" />](#)
 [<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB" title="MongoDB" height="25" />](#)
 [<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS" title="Tailwind CSS" height="25" />](#)
-[<img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass" title="Sass" height="25" />](#)
+[<img src="https://img.shields.io/badge/Nginx-282C34?logo=nginx&logoColor=009639" alt="Nginx" title="Nginx" height="25" />](#)
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazonaws&logoColor=FF9900" alt="AWS" title="AWS" height="25" />](#)
 
 ---
 
@@ -52,22 +56,18 @@ Hi, I'm **Ishwari Jamodkar**, a ** frontend developer** from **India** . Passion
 ## 📅 Goals & Future Plans 🎯
 
 1. **Full-Stack Mastery**: Improve backend skills with Node.js, MongoDB, and REST APIs.
-2. **Mobile Apps**: Build cross-platform apps with React Native and Firebase.
-3. **Contribute to Open Source**: Collaborate on projects to improve my skills and give back to the community.
-4. **Stay Up-to-date**: Keep up with the latest trends in frontend and backend technologies.
+2. **Web Apps**: Focus on building scalable, dynamic, and performant web applications using modern frameworks like React, Next.js, and Node.js.
+3. **Mobile Apps**: Build cross-platform apps with React Native and Firebase.
+4. **Contribute to Open Source**: Collaborate on projects to improve my skills and give back to the community.
+5. **Stay Up-to-date**: Keep up with the latest trends in frontend and backend technologies.
 
 ---
 
 ## 🌍 Where You Can Find Me
 
-- **LinkedIn**: [Valentin Briand](https://www.linkedin.com/in/valentinbriand42)
-- **Stack Overflow**: [Valentin Briand's Stack Overflow](https://stackoverflow.com/users/10927329/valentin-briand)
+- **LinkedIn**: [Ishwari Jamodkar](https://linkedin.com/in/ishwarijamodkar08ij)
+- **Medium**: [Ishwari's blogs](http://medium.com/@ishwarijamodkar08/)
 
 ---
 
-## 🎮 Fun Fact 🤖
-
-When I'm not coding, you can find me **exploring new cafes in Paris**, **playing with new tech gadgets**, or **learning new languages** (currently brushing up on **French** and **JavaScript**)! 😄☕🎧
-
----
 
