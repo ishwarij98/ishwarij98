@@ -47,16 +47,16 @@ Hi, I'm **Ishwari Jamodkar**, a **A fullstack developer** from **India** . Passi
 - **Advanced JavaScript**: Deep dive into closures, async/await, and ES6+ features.
 - **React.js & React Native**: Building performant and scalable web and mobile apps.
 - **Node.js & Express**: Working on backend services and APIs.
-- **TypeScript**: Learning to improve type safety in JavaScript code.
+- **Full-Stack Mastery**: Improve backend skills with Node.js, MongoDB, and REST APIs.
+- **Web Apps**: Focus on building scalable, dynamic, and performant web applications using modern frameworks like React, Next.js, and Node.js.
 - **Redux**: Managing state in complex React apps.
-- **Firebase**: Integrating real-time databases and authentication in apps.
 
 ---
 
 ## 📅 Goals & Future Plans 🎯
 
-1. **Full-Stack Mastery**: Improve backend skills with Node.js, MongoDB, and REST APIs.
-2. **Web Apps**: Focus on building scalable, dynamic, and performant web applications using modern frameworks like React, Next.js, and Node.js.
+1. **TypeScript**: Learning to improve type safety in JavaScript code.
+2. **Firebase**: Integrating real-time databases and authentication in apps.
 3. **Mobile Apps**: Build cross-platform apps with React Native and Firebase.
 4. **Contribute to Open Source**: Collaborate on projects to improve my skills and give back to the community.
 5. **Stay Up-to-date**: Keep up with the latest trends in frontend and backend technologies.
