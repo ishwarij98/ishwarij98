@@ -1,6 +1,6 @@
 
 
-# ✨ Ishwari Jamodkar ✨ 
+# ✦. ─✨ Ishwari Jamodkar ✨ ─ .✦
 
 Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from **India**, weaving code into elegant, user-centric web and mobile experiences. My passion for **React**, **modern web technologies**, and **innovative app development** fuels my mission to build solutions that inspire and delight. ✨
 
@@ -12,9 +12,9 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 ---
 
-## ★✨ My Tech Arsenal
+## ★₊ ⊹✨ My Tech Arsenal
 
-### ★ **Core Technologies**
+### ⭒ **Core Technologies**
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23282828&style=flat-square&color=%23F7DF1E" alt="JavaScript" height="32" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23282828&style=flat-square&color=%2361DAFB" alt="React" height="32" />
@@ -29,7 +29,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visual-studio-code&logoColor=%23FFFFFF&style=flat-square&color=%23007ACC" alt="VS Code" height="32" />
 </div>
 
-### ★ **Currently Mastering**
+### ⭒ **Currently Mastering**
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=%23FFFFFF&style=flat-square&color=%233178C6" alt="TypeScript" height="32" />
   <img src="https://img.shields.io/badge/Firebase-%23FFCA28?logo=firebase&logoColor=%23282828&style=flat-square&color=%23FFCA28" alt="Firebase" height="32" />
@@ -37,7 +37,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
   <img src="https://img.shields.io/badge/Styled%20Components-%23DB7093?logo=styled-components&logoColor=%23FFFFFF&style=flat-square&color=%23DB7093" alt="Styled Components" height="32" />
 </div>
 
-### ★ **Future Explorations**
+### ⭒ **Future Explorations**
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-%23FFFFFF?logo=next.js&logoColor=%23282828&style=flat-square&color=%23282828" alt="Next.js" height="32" />
   <img src="https://img.shields.io/badge/GraphQL-%23E10098?logo=graphql&logoColor=%23FFFFFF&style=flat-square&color=%23E10098" alt="GraphQL" height="32" />
@@ -47,7 +47,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 ---
 
-## ★✨ My Developer Odyssey
+## ★₊ ⊹✨ My Developer Odyssey
 
 ### **Current Projects & Focus**
 - **JavaScript Wizardry**: Diving deep into ES6+, async/await, and functional programming.
@@ -58,7 +58,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 ---
 
-## ★✨ Aspirations & Roadmap
+## ★₊ ⊹✨ Aspirations & Roadmap
 
 - **TypeScript Mastery**: Enhancing code quality with type-safe JavaScript.
 - **Firebase Integration**: Powering apps with real-time databases and authentication.
@@ -68,7 +68,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 ---
 
-## 📍 Connect With Me
+## ₊ ⊹📍 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/ishwarijamodkar08ij"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=%23FFFFFF&style=for-the-badge" alt="LinkedIn" height="30" /></a>
@@ -78,7 +78,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 ---
 
-## ★✨ Beyond the Code
+## ★₊ ⊹✨ Beyond the Code
 When I'm not crafting digital experiences, you’ll find me sketching app designs, sipping chai under the stars, or diving into the latest tech blogs. My creativity fuels my code, and my curiosity keeps me learning! ☕
 
 <p align="center">
