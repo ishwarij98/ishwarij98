@@ -51,7 +51,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 ### **Current Projects & Focus**
 - **JavaScript Wizardry**: Diving deep into ES6+, async/await, and functional programming.
-- **React & React Native**: Building sleek, responsive web and mobile apps with a focus on performance.
+- **React**: Building sleek, responsive web apps with a focus on performance.
 - **Backend Brilliance**: Crafting scalable APIs with Node.js, Express, and MongoDB.
 - **State Management**: Streamlining complex apps with Redux and Context API.
 - **UI/UX Excellence**: Creating visually stunning interfaces with Tailwind CSS and Styled Components.
@@ -62,7 +62,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 - **TypeScript Mastery**: Enhancing code quality with type-safe JavaScript.
 - **Firebase Integration**: Powering apps with real-time databases and authentication.
-- **Mobile Innovation**: Developing cross-platform apps with React Native.
+- **App Innovation**: Developing cross-platform apps with React Native.
 - **Open Source Contributions**: Collaborating on impactful projects to grow and give back.
 - **Tech Trendsetter**: Staying ahead of the curve with Next.js, GraphQL, and cloud technologies.
 
