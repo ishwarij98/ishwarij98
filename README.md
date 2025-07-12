@@ -19,7 +19,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=%23282828&style=flat-square&color=%23F7DF1E" alt="JavaScript" height="32" />
   <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=%23282828&style=flat-square&color=%2361DAFB" alt="React" height="32" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=%23FFFFFF&style=flat-square&color=%23339933" alt="Node.js" height="32" />
-  <img src="https://img.shields.io/badge/Express.js-%23FFFFFF?logo=express&logoColor=%23282828&style=flat-square&color=%23404040" alt="Express.js" height="32" />
+  <img src="https://img.shields.io/badge/Express.js-%23FFFFFF?logo=express&logoColor=%23FFFFFF&style=flat-square&color=%23404040" alt="Express.js" height="32" />
   <img src="https://img.shields.io/badge/React%20Native-%2361DAFB?logo=react&logoColor=%23282828&style=flat-square&color=%2361DAFB" alt="React Native" height="32" />
   <img src="https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=%23FFFFFF&style=flat-square&color=%23E34F26" alt="HTML5" height="32" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=%23FFFFFF&style=flat-square&color=%231572B6" alt="CSS3" height="32" />
@@ -27,6 +27,7 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
   <img src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=%23FFFFFF&style=flat-square&color=%23F05032" alt="Git" height="32" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248?logo=mongodb&logoColor=%23FFFFFF&style=flat-square&color=%2347A248" alt="MongoDB" height="32" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC?logo=visual-studio-code&logoColor=%23FFFFFF&style=flat-square&color=%23007ACC" alt="VS Code" height="32" />
+   <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=%23FFFFFF&style=flat-square&color=%23009639" alt="Nginx" height="32" />
 </div>
 
 ### ⭒ **Currently Mastering**
@@ -39,10 +40,9 @@ Welcome to my world! I'm **Ishwari Jamodkar**, a **Full-Stack Developer** from *
 
 ### ⭒ **Future Explorations**
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-%23FFFFFF?logo=next.js&logoColor=%23282828&style=flat-square&color=%23282828" alt="Next.js" height="32" />
+  <img src="https://img.shields.io/badge/Next.js-%23FFFFFF?logo=next.js&logoColor=%23FFFFFF&style=flat-square&color=%23282828" alt="Next.js" height="32" />
   <img src="https://img.shields.io/badge/GraphQL-%23E10098?logo=graphql&logoColor=%23FFFFFF&style=flat-square&color=%23E10098" alt="GraphQL" height="32" />
   <img src="https://img.shields.io/badge/AWS-%23FF9900?logo=amazonaws&logoColor=%23FFFFFF&style=flat-square&color=%23FF9900" alt="AWS" height="32" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=%23FFFFFF&style=flat-square&color=%23009639" alt="Nginx" height="32" />
 </div>
 
 ---
